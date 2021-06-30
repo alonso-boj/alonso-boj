@@ -7,7 +7,7 @@ Estudante de graduação em Sistemas de Informação pela Pontifícia Universida
 
 #### Contate-me
 
-<img alt="Gmail" src="https://img.shields.io/badge/alonsoboj-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img alt="Discord" src="https://img.shields.io/badge/Alonso de Oliveira%237151-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="mailto:alonsoboj@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://discordapp.com/users/677217815752605718"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 #### Linguagens de programação e tecnologias
 
@@ -15,8 +15,9 @@ Estudante de graduação em Sistemas de Informação pela Pontifícia Universida
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VS Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-<hr><div align="center">
+<hr>
+<div align="center">
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=alonso-boj&count_private=true&show_icons=true&theme=dracula&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)</div>
